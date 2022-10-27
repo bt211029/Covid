@@ -1,2 +1,2 @@
-# Covid
-Reinfection rate vs. COVID Vaccations 
+# SARS-COV-2
+COVID Vaccinations vs. Reinfion Rate
